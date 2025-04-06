@@ -1,0 +1,9 @@
+{
+    "description": "Given a news article or statement, analyze its content and determine whether it is Fake or Real. Use the provided domain of the text to help contextualize your analysis. Respond strictly with \"Fake\" or \"Real\" based on your evaluation.",
+    "guidance": "- Fake: The content is misleading, untrue, or fabricated.\n- Real: The content is truthful, verified, and factually accurate.",
+    "input_format": "News Content: {}",
+    "output_format": "Verdict: {}",
+    "dataset": "fake_news_detection",
+    "task": "classification"
+  }
+  
