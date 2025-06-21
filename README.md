@@ -1,6 +1,6 @@
 # CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection
 
-> **Note**: This repository accompanies a paper currently under review. 
+> **Note**: This repository accompanies a paper currently under review
 
 
 
